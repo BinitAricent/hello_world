@@ -1,3 +1,6 @@
+/*
+ * Adding comments to itsm file
+ */
 package com.aricent.eip.itsm;
 
 import javax.persistence.Entity;
